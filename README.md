@@ -92,7 +92,7 @@ you may want to prevent the install script (virtualenv-burrito.sh) from
 modifying your dot profile. To do this, either use the `--exclude-profile`
 option or set the environment variable `exclude_profile` to a non-empty value:
 
-    curl -sL https://raw.githubusercontent.com/brainsik/virtualenv-burrito/master/virtualenv-burrito.sh | exclude_profile=1 $SHELL
+    curl -sL https://raw.githubusercontent.com/martinell/virtualenv-burrito/master/virtualenv-burrito.sh | exclude_profile=1 $SHELL
 
 ## Uninstall ##
 
