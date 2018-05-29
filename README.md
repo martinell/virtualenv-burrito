@@ -15,7 +15,7 @@ Python 2.x on Linux or OS X. To check your Python version, run:
 
 ## Install ##
 
-    curl -sL https://raw.githubusercontent.com/brainsik/virtualenv-burrito/master/virtualenv-burrito.sh | $SHELL
+    curl -sL https://raw.githubusercontent.com/martinell/virtualenv-burrito/master/virtualenv-burrito.sh | $SHELL
 
 If you're behind a proxy, make sure your shell has the proper `http_proxy` and `https_proxy` variables set.
 
